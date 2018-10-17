@@ -32,5 +32,4 @@ public class Boletin2_5 {
         System.out.println("El sueldo bruto será de " + soldoBruto + "€");
         System.out.println("El sueldo líquido será de " + soldoLiquido + "€");
     }
-    
 }
