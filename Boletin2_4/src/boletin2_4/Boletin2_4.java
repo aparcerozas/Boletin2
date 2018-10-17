@@ -32,6 +32,5 @@ public class Boletin2_4 {
         System.out.println((int)dineroInicial + "€ está formado por " + (int)b100 +
         " billetes de 100€, " + (int)b20 + " billetes de 20€, " + (int)b5 +
         " billetes de 5€ y " + (int)m1 + " monedas de 1€");
-    }
-    
+    }  
 }
