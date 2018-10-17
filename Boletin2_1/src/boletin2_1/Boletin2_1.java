@@ -27,6 +27,5 @@ public class Boletin2_1 {
         porcentajeDesc = 100 - porcentaje;
         System.out.println("El porcentaje de descuento de la compra es del " 
         + porcentajeDesc + " %");
-    }
-    
+    }   
 }
