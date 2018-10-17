@@ -29,6 +29,5 @@ public class Boletin2_3 {
         m1 = teclado.nextInt();
         dinero = b100*100 + b20*20 + b5*5 + m1;
         System.out.println("La cantidad de dinero introducida es de " + dinero + "€");
-    }
-    
+    } 
 }
