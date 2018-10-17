@@ -25,6 +25,5 @@ public class Boletin2_2 {
         fahren = (celsius * 9 / 5) + 32;
         System.out.println(celsius + " grados centígrados equivale a " 
         + kelvin + " grados Kelvin y a " + fahren + " grados Fahrenheit");
-    }
-    
+    }  
 }
